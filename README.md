@@ -3,7 +3,7 @@
 **Mobile Developer | Android Specialist | Flutter Enthusiast**  
 Based in Ho Chi Minh City, Vietnam
 
-<img width=150 height=150 src="https://github.com/user-attachments/assets/32886578-54fd-4071-913f-ecfff8979edc">
+<img width=150 heigh=150 src="https://github.com/user-attachments/assets/cbadb0b2-b7c8-4130-999f-83a26e798bda">
 
 ---
 
