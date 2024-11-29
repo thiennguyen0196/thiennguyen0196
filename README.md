@@ -1,5 +1,7 @@
 
-# 👋 Hi, I'm Thien Nguyen!  
+# 👋 Hi, I'm Thien Nguyen 
+or you can call me **Bruce** 🤗 
+
 **Mobile Developer | Android Specialist | Flutter Enthusiast**  
 Based in Ho Chi Minh City, Vietnam
 
